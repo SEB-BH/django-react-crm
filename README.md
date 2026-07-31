@@ -7,7 +7,7 @@
 
 In this code-along, students build a small customer relationship management application for a premium goods business. The application tracks contacts, possible sales, follow-up dates, and customer interactions.
 
-Students are assumed to have completed a MERN application before beginning this module. No knowledge of Cat Collector or Django templates is required. Each Django concept is introduced by comparing it with a responsibility students have already seen in Express, Mongoose, PostgreSQL, or React.
+Students are assumed to have completed a MERN application before beginning this module. 
 
 The required MVP deliberately focuses on one useful workflow:
 
@@ -32,6 +32,18 @@ The completed app uses:
 - React with Vite
 - React Router
 - Plain CSS
+
+### Prerequisites
+
+Students should already be able to:
+
+- Build CRUD routes in Express
+- Use models and relationships in a full-stack application
+- Fetch API data in React
+- Build controlled forms
+- Use React Router
+- Explain the purpose of authentication and bearer tokens
+- Use basic Python syntax and PostgreSQL commands
 
 ## Content
 
@@ -59,24 +71,3 @@ The completed app uses:
 - [`solution-code/back-end`](./solution-code/back-end/README.md) contains the completed Django API.
 - [`solution-code/front-end`](./solution-code/front-end/README.md) contains the completed React application.
 
-The solution includes a `seed` command for instructor demonstrations and troubleshooting.
-
-## Internal
-
-### Prerequisites
-
-Students should already be able to:
-
-- Build CRUD routes in Express
-- Use models and relationships in a full-stack application
-- Fetch API data in React
-- Build controlled forms
-- Use React Router
-- Explain the purpose of authentication and bearer tokens
-- Use basic Python syntax and PostgreSQL commands
-
-### Instructor resources
-
-- [Instructor Guide](./internal-resources/instructor-guide.md)
-- [Release Notes](./internal-resources/release-notes.md)
-- [References](./references/README.md)
