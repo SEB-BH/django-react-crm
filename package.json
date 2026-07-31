@@ -1,0 +1,13 @@
+{
+  "name": "django-react-crm",
+  "version": "1.0.0",
+  "description": "A Django REST Framework and React CRM code-along lesson",
+  "scripts": {
+    "mdv": "node md-validate.js"
+  },
+  "type": "module",
+  "author": "General Assembly",
+  "devDependencies": {
+    "ga-mdlint": "^1.0.5"
+  }
+}

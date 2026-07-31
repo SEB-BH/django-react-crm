@@ -1,0 +1,196 @@
+{
+  "org": {
+    "friendlyName": "SEB Bahrain",
+    "name": "seb-bh"
+  },
+  "repo": {
+    "friendlyName": "Django + React CRM",
+    "name": "django-react-crm",
+    "type": "Lesson",
+    "about": "Build a staff CRM with Django REST Framework, React, PostgreSQL, and JWT authentication.",
+    "starterCode": "./starter-code",
+    "solutionCode": "./solution-code",
+    "deployedSite": ""
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "courseAcronym": "SEB",
+      "courseFullName": "Software Engineering Bootcamp",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Project Overview and CRM Planning",
+          "dirName": "01-project-overview",
+          "type": "Content",
+          "skill": "Explain a CRM workflow and plan relational data for a sales application.",
+          "learningObjective": "Explain a CRM workflow and plan relational data for a sales application.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 45
+        },
+        {
+          "friendlyName": "Django REST Framework Setup",
+          "dirName": "02-back-end-setup",
+          "type": "Content",
+          "skill": "Create and configure a Django REST Framework API using a virtual environment and PostgreSQL.",
+          "learningObjective": "Create and configure a Django REST Framework API using a virtual environment and PostgreSQL.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 60
+        },
+        {
+          "friendlyName": "Django API Concepts for MERN Developers",
+          "dirName": "03-django-api-concepts",
+          "type": "Content",
+          "skill": "Map familiar MERN responsibilities to Django and Django REST Framework.",
+          "learningObjective": "Map familiar MERN responsibilities to Django and Django REST Framework.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 35
+        },
+        {
+          "friendlyName": "Contact Model and Django Admin",
+          "dirName": "04-contact-model-and-admin",
+          "type": "Content",
+          "skill": "Create a Django model, migrate it, and manage records through Django admin.",
+          "learningObjective": "Create a Django model, migrate it, and manage records through Django admin.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 60
+        },
+        {
+          "friendlyName": "Contact CRUD API",
+          "dirName": "05-contact-api",
+          "type": "Content",
+          "skill": "Build and test RESTful CRUD endpoints with serializers and function-based API views.",
+          "learningObjective": "Build and test RESTful CRUD endpoints with serializers and function-based API views.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 90
+        },
+        {
+          "friendlyName": "React Setup and Routing",
+          "dirName": "06-react-setup-and-routing",
+          "type": "Content",
+          "skill": "Create the React frontend, configure routing, and connect it to the Django API.",
+          "learningObjective": "Create the React frontend, configure routing, and connect it to the Django API.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 60
+        },
+        {
+          "friendlyName": "Reading Contacts in React",
+          "dirName": "07-reading-contacts",
+          "type": "Content",
+          "skill": "Fetch contacts from Django and render loading, search, and list states in React.",
+          "learningObjective": "Fetch contacts from Django and render loading, search, and list states in React.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 60
+        },
+        {
+          "friendlyName": "Creating Contacts",
+          "dirName": "08-creating-contacts",
+          "type": "Content",
+          "skill": "Submit a controlled React form to a Django REST Framework endpoint.",
+          "learningObjective": "Submit a controlled React form to a Django REST Framework endpoint.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 75
+        },
+        {
+          "friendlyName": "Contact Details, Edit, and Delete",
+          "dirName": "09-contact-details-edit-delete",
+          "type": "Content",
+          "skill": "Complete contact CRUD and add safe communication shortcuts.",
+          "learningObjective": "Complete contact CRUD and add safe communication shortcuts.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 90
+        },
+        {
+          "friendlyName": "Opportunities and One-to-Many Relationships",
+          "dirName": "10-opportunities-and-relationships",
+          "type": "Content",
+          "skill": "Connect contacts and opportunities with a foreign key and nested serialized data.",
+          "learningObjective": "Connect contacts and opportunities with a foreign key and nested serialized data.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 120
+        },
+        {
+          "friendlyName": "Building the Sales Pipeline",
+          "dirName": "11-sales-pipeline",
+          "type": "Content",
+          "skill": "Group opportunities by stage and update a single field with PATCH.",
+          "learningObjective": "Group opportunities by stage and update a single field with PATCH.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 90
+        },
+        {
+          "friendlyName": "Recording Interaction History",
+          "dirName": "12-interaction-history",
+          "type": "Content",
+          "skill": "Create a nested interaction endpoint and render a customer communication timeline.",
+          "learningObjective": "Create a nested interaction endpoint and render a customer communication timeline.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 90
+        },
+        {
+          "friendlyName": "Dashboard Metrics",
+          "dirName": "13-dashboard-metrics",
+          "type": "Content",
+          "skill": "Use Django ORM aggregation to calculate and display useful CRM metrics.",
+          "learningObjective": "Use Django ORM aggregation to calculate and display useful CRM metrics.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 75
+        },
+        {
+          "friendlyName": "JWT Authentication and Protected Routes",
+          "dirName": "14-jwt-authentication",
+          "type": "Content",
+          "skill": "Protect the API and React routes with staff-only JWT authentication.",
+          "learningObjective": "Protect the API and React routes with staff-only JWT authentication.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 120
+        },
+        {
+          "friendlyName": "Finish, Test, and Extend the CRM",
+          "dirName": "15-finish-and-extend",
+          "type": "Content",
+          "skill": "Evaluate the MVP against acceptance criteria and identify responsible next steps.",
+          "learningObjective": "Evaluate the MVP against acceptance criteria and identify responsible next steps.",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 60
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": false,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}
